@@ -8,7 +8,7 @@ http://www.jsdroid.com
 
 手机端：http://oss.beijing.jsdroid.com/idea/jsdroid2.5.3.114.apk
 
-#### 授权
+#### 源码授权
 未经授权，不得用于商业用途。
 未经授权，不得二次开发发布到市场。
 #### 联系方式
