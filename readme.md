@@ -1,8 +1,7 @@
 
 #### 简介
 JsDroid手机客户端App。
-#### 官网
-http://www.jsdroid.com
+
 #### 下载
 开发工具：http://oss.beijing.jsdroid.com/idea/jsdroid-dev-windowsx64.exe 
 
